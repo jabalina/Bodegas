@@ -1,4 +1,7 @@
 # Proyecto Mantenedor de Bodegas
+# Laravel 8
+# PHP 7.4
+# POSTGRES 18.3
 
 ## Instrucciones para levantar el proyecto:
 1. Clonar el repositorio.
